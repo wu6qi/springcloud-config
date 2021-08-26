@@ -1,6 +1,5 @@
 hello git!
 hello git!
 1
-master
-
+a master
 
